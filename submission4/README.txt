@@ -1,14 +1,14 @@
 Unlisted youtube video:
-http://youtube....
+https://www.youtube.com/watch?v=zyDRQI96TSk
 
 Conference submitted paper / paper submission / login Link:
 https://easy....
 
 Paper title:
-Partially automated exam answer script checking for Intro to Marketing
+Bengali Speech Emotion Recognition: A hybrid approach using B-LSTM
 
 Paper presentation (anyone can view without login):
-http://slides.google.com/
+https://docs.google.com/presentation/d/1vZ9l41g1rFEVPhC-aTFE_1zpvCYNa4qV/edit?usp=sharing&ouid=107039968619059760725&rtpof=true&sd=true
 
 Paper submission date (to workshop/conference):
 25 October 1999
