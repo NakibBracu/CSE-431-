@@ -2,7 +2,7 @@ Unlisted youtube video:
 https://www.youtube.com/watch?v=zyDRQI96TSk
 
 Conference submitted paper / paper submission / login Link:
-https://easy....
+https://new.precisionconference.com/user/login
 
 Paper title:
 Bengali Speech Emotion Recognition: A hybrid approach using B-LSTM
@@ -11,16 +11,16 @@ Paper presentation (anyone can view without login):
 https://docs.google.com/presentation/d/1vZ9l41g1rFEVPhC-aTFE_1zpvCYNa4qV/edit?usp=sharing&ouid=107039968619059760725&rtpof=true&sd=true
 
 Paper submission date (to workshop/conference):
-25 October 1999
+06 May 2022
 
 Paper submission ID: (received) from conference/workshop
-1341234
+1053
 
 Conference Name:
-2005 International Conference on Quantum Pattern Recognition for Natural Langauge Processing: Techniques and Practices
+AAAI ICWSM-2022 16TH INTERNATIONAL CONFERENCE ON WEB AND SOCIAL MEDIA
 
 Conference URL:
-http://confsite/...
+https://www.icwsm.org/2022/index.html/
 
 Group Number:
 8
